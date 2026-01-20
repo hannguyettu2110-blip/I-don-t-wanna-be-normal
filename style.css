@@ -2,17 +2,17 @@ h1 (
  color:turquose;
  top-margin: 25pt;
 )
- .tuade (
+ .tuade {
  color: turquose;
  font-family: Arial;
  top-margin: 20pt;
  font-size: 20pt
  font-weight: bold;
-)
-.noidung ( 
+ }
+.noidung {
  color: turquose;
  font-family: Arial;
  top-margin: 20pt;
  font-size: 20pt
  font-style: normal;
-)
+}
