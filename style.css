@@ -5,4 +5,14 @@ h1 (
  .tuade (
  color: turquose;
  font-family: Arial;
+ top-margin: 20pt;
+ font-size: 20pt
+ font-weight: bold;
+)
+.noidung ( 
+ color: turquose;
+ font-family: Arial;
+ top-margin: 20pt;
+ font-size: 20pt
+ font-weight: bold;
 )
