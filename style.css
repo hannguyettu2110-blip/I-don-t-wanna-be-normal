@@ -1,19 +1,17 @@
 h1 {
- color:turquoise;
- top-margin: 25pt;
+  color: turquoise;
+  top-margin: 25pt;
 }
- .tuade {
- color: turquoise;
- font-family: Arial;
- top-margin: 20pt;
- font-size: 20pt;
- font-weight: bold;
- }
+.tuade {
+  color: pink;
+  font-family: Arial;
+  top-margin: 20pt;
+  font-size: 20pt;
+  font-weight: bold;
+}
 .noidung {
- color: black;
- font-family: ;
- top-margin: 6pt;
- font-size: 15pt;
- font-style: normal;
- text-transform: lowercase;
+  color: black;
+  top-margin: 6pt;
+  font-size: 15pt;
+  font-style:normal;
 }
