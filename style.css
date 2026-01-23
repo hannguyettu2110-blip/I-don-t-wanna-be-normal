@@ -10,9 +10,10 @@ h1 {
  font-weight: bold;
  }
 .noidung {
- color: turquoise;
- font-family: Arial;
- top-margin: 20pt;
- font-size: 20pt;
+ color: black;
+ font-family: ;
+ top-margin: 6pt;
+ font-size: 15pt;
  font-style: normal;
+ text-transform: lowercase;
 }
